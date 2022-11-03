@@ -26,8 +26,8 @@ export default function App() {
                 <Link to="/Project">Project</Link>
                 </li>
               <li className="px-2  hover:text-sky-400"><a href='https://www.linkedin.com/in/brandon-turner-046a7a254/'>Resume</a></li>
-              <li>
-                <Link to="/Contact">Contact</Link>
+              <li className="px-2  hover:text-sky-400">
+                <Link  to="/Contact">Contact</Link>
                 </li>
             </ul>
           </nav></div>

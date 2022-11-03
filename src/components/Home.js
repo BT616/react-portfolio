@@ -19,7 +19,7 @@ function Home(){
 
         <h3 className="text-xl py-2">Developer & Designer</h3>
         <p className="text-center">Web Developer from San Diego,CA with a passion in Front End Development</p>
-        <div className="py-3 text-4xl flex justify-center gap-10 text-gray-500"><a href="https://github.com/BT616"><FaGithub /></a><FaReact /></div>
+        <div className="py-3 text-4xl flex justify-center gap-10  text-gray-500"><a href="https://github.com/BT616"><FaGithub /></a><FaReact /></div>
         </div>
         
     )
