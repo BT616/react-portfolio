@@ -8,7 +8,7 @@ An update to our portfolio with previous projects that showcase our current skil
 
 [React-Portfolio](https://charming-gecko-209657.netlify.app/)
 
-##Tech Use
+## Tech Used
 -Tailwind 
 -React 
 
