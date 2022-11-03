@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './components/Home'
 import Project from './components/Project'
 import Contact from './components/Contact'
-
+import Footer from './components/Footer'
 
 export default function App() {
   //const [darkMode,setDarkMode] =useState(false)
@@ -11,10 +11,9 @@ export default function App() {
   //className={darkMode ? "dark": ""}
 
   return (
+    <div>
     <Router>
       <div className="App">
-
-
         <div className='bg-gray-200'>
           <nav className="py-5 mb-12 flex justify-between bg-gradient-to-r from-blue-100 to-orange-100">
             <h1 className="p-2 text-xl font-bold">DEVELOPEDBYBT616</h1>
@@ -37,10 +36,14 @@ export default function App() {
           <Route exact path='/' element={<Home />}></Route>
           <Route exact path='/Project' element={<Project />}></Route>
           <Route exact path='/Contact' element={<Contact />}></Route>
-
         </Routes>
-      </div>
+      </div> 
     </Router>
+    <Footer/>
+    </div>
+    
+   
+   
   )
 }
 

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.c49b4b66.css",
-    "main.js": "/react-portfolio/static/js/main.fea79613.js",
-    "static/media/first.png": "/react-portfolio/static/media/first.69f837913c67259ce192.png",
-    "static/media/project.png": "/react-portfolio/static/media/project.84274da1df5e56d3695c.png",
-    "static/media/passwordgen.png": "/react-portfolio/static/media/passwordgen.abf04bf10f816ca4b646.png",
-    "static/media/face.jpeg": "/react-portfolio/static/media/face.fc9d35edf391ed62659e.jpeg",
-    "index.html": "/react-portfolio/index.html",
-    "main.c49b4b66.css.map": "/react-portfolio/static/css/main.c49b4b66.css.map",
-    "main.fea79613.js.map": "/react-portfolio/static/js/main.fea79613.js.map"
+    "main.css": "/static/css/main.7b6e7712.css",
+    "main.js": "/static/js/main.93d740e2.js",
+    "static/media/first.png": "/static/media/first.69f837913c67259ce192.png",
+    "static/media/project.png": "/static/media/project.84274da1df5e56d3695c.png",
+    "static/media/passwordgen.png": "/static/media/passwordgen.abf04bf10f816ca4b646.png",
+    "static/media/face.jpeg": "/static/media/face.fc9d35edf391ed62659e.jpeg",
+    "index.html": "/index.html",
+    "main.7b6e7712.css.map": "/static/css/main.7b6e7712.css.map",
+    "main.93d740e2.js.map": "/static/js/main.93d740e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c49b4b66.css",
-    "static/js/main.fea79613.js"
+    "static/css/main.7b6e7712.css",
+    "static/js/main.93d740e2.js"
   ]
 }
