@@ -16,10 +16,11 @@ function Home(){
         </div>
         </div>
        
-
+        <div className='container mx-auto max-w-sm'>
         <h3 className="text-xl py-2">Developer & Designer</h3>
-        <p className="text-center">Web Developer from San Diego,CA with a passion in Front End Development</p>
+        <p className="text-center">A detail oriented Full Stack Developer from San Diego,CA with a passion in Front End Development. Consistantly learning and improving design and coding skills, while looking for innovative ways to enchance production. </p>
         <div className="py-3 text-4xl flex justify-center gap-10  text-gray-500"><a href="https://github.com/BT616"><FaGithub /></a><FaReact />
+        </div>
         </div>
         </div>
         
