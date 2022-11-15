@@ -13,7 +13,7 @@ function Project() {
             <img alt='ecommerce project' src={ecommerce} />
             <h1 className="text-xl font-medium hover:underline text-center py-2 hover:text-sky-400"><a href="https://github.com/hale-bopp97/fantastic_ecomerce">Fantastic-eCommerce</a></h1>
             <p className=" text-gray-600 px-10 py-2">An ecommerce site where you can purchase stickers, monitors, keyboards and other desktop items. Created using the Next.js
-                framework, Mongoose, Apollow-Server, Tailwind for style, Magic-Link for passwordless login and Stripe for easy checkout </p>
+                framework, Mongoose, Apollo-Server, Tailwind for style, Magic-Link for passwordless login and Stripe for easy checkout </p>
         </div>
 
         <div className="container mx-auto max-w-lg shadow-lg rounded-xl  overflow-hidden bg-gray-100 mt-10">
