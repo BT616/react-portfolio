@@ -6,7 +6,7 @@ An update to our portfolio with previous projects that showcase our current skil
 
 ## Deployed Link
 
-[React-Portfolio](https://charming-gecko-209657.netlify.app/)
+[React-Portfolio](https://cheerful-druid-408221.netlify.app)
 
 ## Tech Used
 -Tailwind 
